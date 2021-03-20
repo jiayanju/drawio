@@ -1,1 +1,226 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T05:42:16.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.9" etag="-4SCkTXmrMZ3J87hvylk" type="github"><diagram id="wdfI51UGzHQdmhAm6pAR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-20T06:41:34.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZyJ7ukMBE18TPNIRLlhN" version="14.4.9" type="github">
+  <diagram id="wdfI51UGzHQdmhAm6pAR" name="Page-1">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;strokeWidth=3;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-68" target="qxt5BW7-TNEPUDvzOa12-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontSize=18;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180" y="880" width="510" height="463" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-1" target="qxt5BW7-TNEPUDvzOa12-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=18;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-1" target="qxt5BW7-TNEPUDvzOa12-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="300" />
+              <mxPoint x="835" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="710" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-5" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="280" as="sourcePoint" />
+            <mxPoint x="1080" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=3;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="370" width="350" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-7" value="Bucket -&amp;nbsp;&lt;span style=&quot;font-weight: 400&quot;&gt;Sorted Set&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="185" y="380" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="175" y="430" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-9" value="Bucket1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-10" value="Job ID1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-11" value="Job ID3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-12" value="Job ID5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="345" y="440" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="175" y="520" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-14" value="Bucket2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-15" value="Job ID2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-16" value="Job ID4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontSize=16;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-19" value="Job Pool - Hash" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="330" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=18;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-26" target="qxt5BW7-TNEPUDvzOa12-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontSize=16;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620" y="560" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-27" value="RedayQueue - List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="570" width="235" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="345" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-29" value="topic1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-32" value="Job ID1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-34" value="Job ID2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-35" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-36" value="topic1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="650" width="345" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-38" value="Job ID3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-39" value="Job ID6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="762.5" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-40" value="Job ID5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="842.5" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-41" value="topic2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="700" width="345" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-43" value="Job ID4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="700" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-44" value="...." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="700" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-46" value="topic3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-48" value="Job ID1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="370" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-49" value="Job (topic, body...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="370" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-50" value="Job ID2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="400" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-51" value="Job (topic, body...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="400" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-52" value="Job ID3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="430" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-53" value="Job (topic, body...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="430" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-54" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="460" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-55" value="Job (topic, body...)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="460" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-56" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="800" as="sourcePoint" />
+            <mxPoint x="1080" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-59" value="Bucket Handler Thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="285" y="890" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-60" value="Handler 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1015" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-61" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="972" width="135" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-62" value="轮询从Bucket中获取过期任务ID，并放入ReadyQueue里面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1065" width="87.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-63" value="Handler 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1010" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-64" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="455" y="970" width="135" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-65" value="轮询从Bucket中获取过期任务ID，并放入ReadyQueue里面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="481.25" y="1085" width="87.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-73" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Delay Queue 接口&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-74" value="push" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="360" y="165" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-75" value="pop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="165" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-76" value="remove" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="580" y="165" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-77" value="finish" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="165" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-80" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontSize=18;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="880" width="350" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-81" value="ReadyQueue Consumer Thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="910" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-82" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="843" y="965" width="107" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-83" value="Consumer1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="861.5" y="1040" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-84" value="轮询从ReadyQueue的topic中获取任务并处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="857.75" y="1090" width="77.5" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-85" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="972.5" y="965" width="107" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-86" value="Consumer2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="991" y="1040" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-87" value="轮询从ReadyQueue的topic中获取任务并处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="987.25" y="1090" width="77.5" height="109" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
