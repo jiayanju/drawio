@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T06:41:34.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZyJ7ukMBE18TPNIRLlhN" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T06:45:02.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4Gpr5PNb4c-B4o5G0KDM" version="14.4.9" type="github">
   <diagram id="wdfI51UGzHQdmhAm6pAR" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontSize=18;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="180" y="880" width="510" height="463" as="geometry" />
+          <mxGeometry x="90" y="880" width="510" height="463" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-1" target="qxt5BW7-TNEPUDvzOa12-6">
           <mxGeometry relative="1" as="geometry">
@@ -19,7 +19,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555" y="300" />
-              <mxPoint x="835" y="300" />
+              <mxPoint x="830" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -32,10 +32,8 @@
             <mxPoint x="1080" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxt5BW7-TNEPUDvzOa12-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;strokeWidth=3;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="880" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=18;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-6" target="qxt5BW7-TNEPUDvzOa12-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="100" y="370" width="350" height="270" as="geometry" />
@@ -71,12 +69,12 @@
           <mxGeometry x="272.5" y="530" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontSize=16;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="670" y="320" width="330" height="210" as="geometry" />
+          <mxGeometry x="620" y="320" width="420" height="210" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-19" value="Job Pool - Hash" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="750" y="330" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qxt5BW7-TNEPUDvzOa12-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=18;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-26" target="qxt5BW7-TNEPUDvzOa12-80">
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=18;" edge="1" parent="1" source="qxt5BW7-TNEPUDvzOa12-26" target="qxt5BW7-TNEPUDvzOa12-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontSize=16;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
@@ -161,27 +159,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-59" value="Bucket Handler Thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="285" y="890" width="290" height="80" as="geometry" />
+          <mxGeometry x="195" y="890" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-60" value="Handler 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1015" width="100" height="30" as="geometry" />
+          <mxGeometry x="210" y="1015" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-61" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="972" width="135" height="330" as="geometry" />
+          <mxGeometry x="192.5" y="972" width="135" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-62" value="轮询从Bucket中获取过期任务ID，并放入ReadyQueue里面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1065" width="87.5" height="180" as="geometry" />
+          <mxGeometry x="210" y="1065" width="87.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-63" value="Handler 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1010" width="100" height="30" as="geometry" />
+          <mxGeometry x="385" y="1010" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-64" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="455" y="970" width="135" height="330" as="geometry" />
+          <mxGeometry x="365" y="970" width="135" height="330" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-65" value="轮询从Bucket中获取过期任务ID，并放入ReadyQueue里面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="481.25" y="1085" width="87.5" height="180" as="geometry" />
+          <mxGeometry x="391.25" y="1085" width="87.5" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="qxt5BW7-TNEPUDvzOa12-73" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Delay Queue 接口&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-73" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;Delay Queue 接口&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-74" value="push" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
@@ -197,28 +195,31 @@
           <mxGeometry x="700" y="165" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-80" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontSize=18;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="800" y="880" width="350" height="430" as="geometry" />
+          <mxGeometry x="720" y="890" width="350" height="430" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-81" value="ReadyQueue Consumer Thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="840" y="910" width="270" height="40" as="geometry" />
+          <mxGeometry x="760" y="920" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-82" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="843" y="965" width="107" height="315" as="geometry" />
+          <mxGeometry x="763" y="975" width="107" height="315" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-83" value="Consumer1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="861.5" y="1040" width="70" height="40" as="geometry" />
+          <mxGeometry x="781.5" y="1050" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-84" value="轮询从ReadyQueue的topic中获取任务并处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="857.75" y="1090" width="77.5" height="109" as="geometry" />
+          <mxGeometry x="777.75" y="1100" width="77.5" height="109" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-85" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="972.5" y="965" width="107" height="315" as="geometry" />
+          <mxGeometry x="892.5" y="975" width="107" height="315" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-86" value="Consumer2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="991" y="1040" width="70" height="40" as="geometry" />
+          <mxGeometry x="911" y="1050" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxt5BW7-TNEPUDvzOa12-87" value="轮询从ReadyQueue的topic中获取任务并处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="987.25" y="1090" width="77.5" height="109" as="geometry" />
+          <mxGeometry x="907.25" y="1100" width="77.5" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="qxt5BW7-TNEPUDvzOa12-91" value="Redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
